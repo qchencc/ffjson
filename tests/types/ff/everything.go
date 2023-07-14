@@ -22,7 +22,7 @@ import (
 	"runtime"
 	"strconv"
 
-	"github.com/foo/vendored"
+	"github.com/pquerna/ffjson/tests/foo/vendored"
 )
 
 // ExpectedSomethingValue maybe expects something of value
